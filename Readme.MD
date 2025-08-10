@@ -48,7 +48,7 @@ My expertise lies in designing CI/CD pipelines, managing cloud infrastructure, a
 ## 📫 Contact
 - **Email:** pikkili.chakradhar@example.com  
 - **LinkedIn:** [linkedin.com/pikkili-vm-chakradhar](https://linkedin.com/pikkili-vm-chakradhar)  
-- **GitHub:** [github.com/pikkilicahkri](https://github.com/pikkilichakri)
+- **GitHub:** [github.com/pikkilichakri](https://github.com/pikkilichakri)
 
 ---
 
